@@ -6,8 +6,8 @@
 🌱 I’m currently learning<br>
 💬 Ask me about<br>
 ⚡ Fun fact<br>
-🎮<br>
-🚘<br>
+🎮 Currently Playing Final Fantasy VII Rebirth and Call of Duty III<br>
+🚘 21 Subaru Crosstrek Limited Cool Grey Khaki<br>
 <br/>
 
 ### 🌐 Socials:
