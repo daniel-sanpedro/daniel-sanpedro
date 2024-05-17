@@ -9,12 +9,7 @@
 
 <br/>
 
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dubbleru_619)
-
-<br/>
-
+---
 # 💻 Languages and Tools:
 
 <img align="left" alt="Java" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
@@ -23,8 +18,6 @@
 <img align="left" alt="Java" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
 
 <br/>
-
----
 
 # 📊 GitHub Stats:
 
@@ -45,6 +38,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=daniel-sanpedro&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 ---
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dubbleru_619)
+
+<br/>
 
 [![](https://visitcount.itsvg.in/api?id=daniel-sanpedro&icon=2&color=1)](https://visitcount.itsvg.in)
 
