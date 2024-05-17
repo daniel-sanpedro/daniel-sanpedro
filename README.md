@@ -10,7 +10,8 @@
 <br/>
 
 ---
-# 💻 Languages and Tools:
+
+### 💻 Languages and Tools:
 
 <img align="left" alt="Java" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
 <img align="left" alt="Java" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
@@ -19,7 +20,7 @@
 
 <br/>
 
----
+#
 
 
 # 📊 GitHub Stats:
