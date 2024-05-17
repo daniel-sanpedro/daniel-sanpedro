@@ -29,6 +29,8 @@
 
 <br/>
 
+---
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=daniel-sanpedro&theme=discord&no-frame=false&no-bg=true&margin-w=4)
