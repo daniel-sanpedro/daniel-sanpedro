@@ -21,7 +21,7 @@
 <img align="left" alt="Java" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
 <br/>
 
-#
+---
 
 ### 📊 GitHub Stats:
 
@@ -38,9 +38,11 @@
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=daniel-sanpedro&icon=2&color=1)](https://visitcount.itsvg.in)
-
 <details>
 <summary><h3> My Coding Journey </h3></summary>
+
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=daniel-sanpedro&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
