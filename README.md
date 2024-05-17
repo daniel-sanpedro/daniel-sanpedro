@@ -19,6 +19,8 @@
 <img align="left" alt="Java" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
 <br/>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-sanpedro&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
 #
 
 ### 📊 GitHub Stats:
@@ -29,6 +31,7 @@
 <br/>
 
 ---
+
 ### 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dubbleru_619)
@@ -39,6 +42,5 @@
 
 <details>
 <summary><h3> My Coding Journey </h3></summary>
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
