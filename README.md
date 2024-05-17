@@ -35,9 +35,7 @@
 
 ### 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dubbleru_619)
-
-<br/>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dubbleru_619)<br/>
 
 <details>
 <summary><h3> My Coding Journey </h3></summary>
