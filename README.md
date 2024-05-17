@@ -10,6 +10,10 @@
 🚘
 <br/>
 
+### 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dubbleru_619)<br/>
+
 ---
 
 ### 💻 Languages and Tools:
@@ -35,9 +39,7 @@
 
 ---
 
-### 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dubbleru_619)<br/>
 
 <details>
 <summary><h3> My Coding Journey </h3></summary>
