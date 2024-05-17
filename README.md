@@ -7,9 +7,13 @@
 💬 Ask me about<br>
 ⚡ Fun fact
 
+<br/>
+
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dubbleru_619)
+
+<br/>
 
 # 💻 Languages and Tools:
 
@@ -23,13 +27,17 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=daniel-sanpedro&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=daniel-sanpedro&theme=react&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=daniel-sanpedro&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-sanpedro&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<br/>
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=daniel-sanpedro&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+<br/>
 
 ### 🔝 Top Contributed Repo
 
