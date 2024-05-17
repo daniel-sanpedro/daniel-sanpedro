@@ -5,14 +5,15 @@
 🤝 I’m looking for help with<br>
 🌱 I’m currently learning<br>
 💬 Ask me about<br>
-⚡ Fun fact
-🎮
-🚘
+⚡ Fun fact<br>
+🎮<br>
+🚘<br>
 <br/>
 
 ### 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dubbleru_619)<br/>
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/dubble619/)<br/>
 
 ---
 
@@ -38,8 +39,6 @@
 <br/>
 
 ---
-
-
 
 <details>
 <summary><h3> My Coding Journey </h3></summary>
