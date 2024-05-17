@@ -1,4 +1,4 @@
-<p align="center">
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
@@ -22,5 +22,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=daniel-sanpedro&icon=2&color=1)](https://visitcount.itsvg.in)
 
-</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
