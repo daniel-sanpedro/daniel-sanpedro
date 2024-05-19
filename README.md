@@ -1,11 +1,8 @@
 # 🏋🏻‍♂️ Daniel San Pedro:
 
 🔭 I’m currently working on postgresql<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>
-⚡ Fun fact<br>
+🤝 I’m looking for help with JavaScript, React and PostgreSQL<br>
+🌱 I’m currently learning JavaScript, React and PostgreSQL<br>
 🎮 Currently Playing Final Fantasy VII Rebirth and Call of Duty III<br>
 🚘 21 Subaru Crosstrek Limited Cool Grey Khaki<br>
 <br/>
