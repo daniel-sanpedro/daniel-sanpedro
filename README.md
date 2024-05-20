@@ -59,7 +59,7 @@ Let's build something amazing together!
 
 
 
-[![](https://visitcount.itsvg.in/api?id=daniel-sanpedro&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=daniel-sanpedro&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
