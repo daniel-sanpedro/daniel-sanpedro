@@ -7,8 +7,6 @@
 🚘 21 Subaru Crosstrek Limited Cool Grey Khaki<br>
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=daniel-sanpedro&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
-
 ### 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dubbleru_619)
@@ -58,8 +56,6 @@ Problem-solving is at the heart of what I do. I enjoy tackling coding challenges
 Let's build something amazing together!
   
 </details>
-
-
 
 [![](https://visitcount.itsvg.in/api?id=daniel-sanpedro&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
