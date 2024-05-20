@@ -41,17 +41,17 @@
 <summary><h3> My Coding Journey </h3></summary>
 Hi there! I'm an aspiring full stack developer with a deep passion for web development and computers. My journey in tech began with a fascination for how websites are built and has since grown into a full-blown pursuit of mastering both front-end and back-end technologies.
 
-  Front-End Development: I started with the basics of HTML and CSS, mastering the art of creating and styling web pages. JavaScript quickly became my tool of choice for adding interactivity, and I have since delved into popular frameworks like React to build dynamic and responsive user interfaces.
+Front-End Development: I started with the basics of HTML and CSS, mastering the art of creating and styling web pages. JavaScript quickly became my tool of choice for adding interactivity, and I have since delved into popular frameworks like React to build dynamic and responsive user interfaces.
 
-  On the server side, I have been honing my skills in Node.js, creating robust back-end systems. I enjoy working with databases, both SQL (like PostgreSQL) and NoSQL (like MongoDB), to build comprehensive applications.
-
-  Bringing together my front-end and back-end skills, I love building full stack applications. I've worked with the MERN stack (MongoDB, Express.js, React, Node.js) to create seamless and efficient web solutions. Deploying these applications using platforms like Heroku and Netlify has been an exciting part of my journey.
+On the server side, I have been honing my skills in Node.js, creating robust back-end systems with Express.js. Working with PostgreSQL has allowed me to efficiently manage and query relational databases, ensuring data integrity and performance.
+  
+Bringing together my front-end and back-end skills, I love building full stack applications using the PERN stack (PostgreSQL, Express.js, React, Node.js). This combination allows me to create seamless and efficient web solutions. Deploying these applications using platforms like Heroku and Netlify has been an exciting part of my journey.
 
 I believe in the power of continuous learning and community collaboration. I regularly take courses on platforms like freeCodeCamp, Codecademy, and Coursera to stay updated with the latest in web development. Contributing to open source projects has not only improved my coding skills but also connected me with a vibrant community of developers.
 
 Problem-solving is at the heart of what I do. I enjoy tackling coding challenges on LeetCode, HackerRank, and Codewars, constantly pushing myself to think critically and innovatively. This practice has sharpened my skills and prepared me for real-world coding scenarios.
 
-  As I continue my journey, I'm excited to build more projects, explore new technologies, and connect with like-minded professionals. My goal is to create impactful web applications that enhance user experiences and solve real-world problems.
+As I continue my journey, I'm excited to build more projects, explore new technologies, and connect with like-minded professionals. My goal is to create impactful web applications that enhance user experiences and solve real-world problems.
 
 Let's build something amazing together!
   
