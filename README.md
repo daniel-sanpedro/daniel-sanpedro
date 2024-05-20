@@ -39,7 +39,7 @@
 
 <details>
 <summary><h3> My Coding Journey </h3></summary>
-test
+Hi there! I'm an aspiring full stack developer with a deep passion for web development and computers. My journey in tech began with a fascination for how websites are built and has since grown into a full-blown pursuit of mastering both front-end and back-end technologies.
 </details>
 
 
