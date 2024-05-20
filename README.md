@@ -39,6 +39,7 @@
 
 <details>
 <summary><h3> My Coding Journey </h3></summary>
+
 Hi there! I'm an aspiring full stack developer with a deep passion for web development and computers. My journey in tech began with a fascination for how websites are built and has since grown into a full-blown pursuit of mastering both front-end and back-end technologies. <br/>
 
 I started with the basics of HTML and CSS, mastering the art of creating and styling web pages. JavaScript quickly became my tool of choice for adding interactivity, and I have since delved into popular frameworks like React to build dynamic and responsive user interfaces. <br/>
