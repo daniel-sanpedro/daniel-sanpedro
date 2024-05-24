@@ -1,4 +1,4 @@
-# 🏋🏻‍♂️ Daniel San Pedro:
+# 🏋🏻‍♂️ Daniel San Pedro
 
 🔭 I’m currently working on postgresql<br>
 🤝 I’m looking for help with JavaScript, React and PostgreSQL<br>
