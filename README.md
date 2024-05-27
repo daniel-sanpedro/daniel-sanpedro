@@ -55,7 +55,7 @@ Problem-solving is at the heart of what I do. I enjoy tackling coding challenges
 
 As I continue my journey, I'm excited to build more projects, explore new technologies, and connect with like-minded professionals. My goal is to create impactful web applications that enhance user experiences and solve real-world problems. <br/>
 
-Let's build something amazing together <br/>
+Let's build something amazing together! <br/>
   
 </details>
 
